@@ -15,7 +15,7 @@ function saturdayFun(activityOne = "roller-skate") {
     };
   };
   
-  let result = wrapAdjective('||');
+  let result = wrapAdjective('*');
   let emphatic = result("a hard worker");
   console.log(emphatic);
 
